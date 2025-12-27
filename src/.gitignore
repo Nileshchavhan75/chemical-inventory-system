@@ -1,0 +1,29 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# VS Code
+.vscode/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
